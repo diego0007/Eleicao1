@@ -1,0 +1,10 @@
+1-alert
+2-window.location
+3-tootip
+4-toUpperCase()
+5-carrusel
+6-autocomplete
+7-validaform
+8-validacaocampo
+9-onkeydown
+10-oncontextmenu
